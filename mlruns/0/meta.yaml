@@ -1,6 +1,6 @@
-artifact_location: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/0
-creation_time: 1724158825141
+artifact_location: file:///home/sonhaile/MLOps/mlops-project-sample/mlruns/0
+creation_time: 1727087564251
 experiment_id: '0'
-last_update_time: 1724158825141
+last_update_time: 1727087564251
 lifecycle_stage: active
 name: Default

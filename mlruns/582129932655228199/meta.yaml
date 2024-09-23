@@ -1,0 +1,6 @@
+artifact_location: file:///home/sonhaile/MLOps/mlops-project-sample/mlruns/582129932655228199
+creation_time: 1727087564255
+experiment_id: '582129932655228199'
+last_update_time: 1727087564255
+lifecycle_stage: active
+name: Model Training Experiment
